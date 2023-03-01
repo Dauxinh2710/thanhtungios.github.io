@@ -25,7 +25,7 @@ iVBORw0KGgoAAAANSUhEUgAAAfQAAAH0CAYAAADL1t+KAAAAAXNSR0IArs4c6QAAIABJREFUeF7svQec
 			<key>PayloadOrganization</key>
 			<string>179io Store</string>
 			<key>PayloadType</key>
-			<string>com.179io.webClip.managed</string>
+			<string>com.Apple.webClip.managed</string>
 			<key>PayloadUUID</key>
 			<string>79D6DE5F-75F6-4C62-A78C-861018BDBC7B</string>
 			<key>PayloadVersion</key>
