@@ -6,11 +6,11 @@
         "apps": [
         {
             "isLanZouCloud": 0,
-            "name": "Mai Thanh Tùng",
-            "version": "179io",
-            "iconURL": "https://179io-mtt.github.io/img/62BA2D4C-0FD3-4270-B197-58E42A834777.jpeg",
-            "downloadURL": "https://github.com/179io-MTT/179io-MTT.github.io/blob/main/179io.mobileconfig",
-            "versionDescription": "Cấu Hình Của Tôi"
+            "name": "uYou",
+            "version": "18.9.6",
+            "iconURL": "https://179io-mtt.github.io/img/Youtobe.png",
+            "downloadURL": "https://github.com/MiRO92/uYou-for-YouTube",
+            "versionDescription": "Đã Fix Đăng Nhập"
         },
 
         {
