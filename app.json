@@ -1,152 +1,100 @@
-{
-	"META": {
-		"repoName": "179io",
-		"repoIcon": "https://usescarlet.com/img/62BA2D4C-0FD3-4270-B197-58E42A834777.jpeg"
-	},
-	"Tweaked": [{
-		"name": "uYou+",
-		"version": "18.08.1",
-		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.08.1-2.3.1/uYouPlus_18.08.1_2.3.1.ipa",
-		"category": "Tweaked Apps",
-        "changelog": "-Phần mới",
-		"description": "https://179io-mtt.github.io/info/mau.html",
-		"bundleID": "com.google.ios.youtube",
-		"appstore": "com.google.ios.youtube",
-		"contact": {
-			"web": "https://repo.twickd.com",
-			"twitter": "https://twitter.com/twickdrepo"
-		}
-	}, {
-		"name": "iPogo",
-		"version": "0.263.0",
-		"down": "https://ipogo.app/download/ipogo-2.8.4.ipa",
-		"category": "Tweaked Apps",
-		"description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
-		"bundleID": "com.nianticlabs.pokemongo",
-		"appstore": "com.nianticlabs.pokemongo"
-	}, {
-		"name": "SpooferX",
-		"version": "0.263.0",
-		"down": "https://www.spooferx.app/ipa/SpooferPro-0.263.0-0.134.ipa",
-		"category": "Tweaked Apps",
-		"changelog": "- Added Support for Latest version\n- Fixed Scarlet install error",
-		"description": "SpooferX for Pokémon GO is an enhanced edition of the Pokémon GO app, adding a joystick and with free teleport ! It also include a lot of others features : IV checking, enhanced throw, auto walking and GPX, fast catch trick, a live feed and even a map with everything around you !",
-		"bundleID": "com.nianticlabs.pokemongo",
-		"appstore": "com.nianticlabs.pokemongo"
-	}, {
-		"name": "Sposify++",
-		"version": "8.6.42",
-		"down": "https://resources.usescarlet.com/repo/IPAs/Spotify.ipa",
-		"category": "Tweaked Apps",
-		"description": "Sposify and Spotilife tweak merged into one app",
-		"bundleID": "com.spotify.client",
-		"appstore": "com.spotify.client",
-		"debs": [
-			"https://usescarlet.com/debs/Spotilife.dylib",
-			"https://usescarlet.com/debs/Sposify.dylib",
-			"https://usescarlet.com/debs/SposifyFix.dylib"
-		],
-		"changelog": "- Updated Spotilife to v1.8"
-	}, {
-		"name": "Instagram Rhino",
-		"version": "187.0",
-		"icon": "https://iosninja.io/img/ipas/instagram_rhino.png",
-		"down": "https://resources.usescarlet.com/repo/IPAs/instagramRhino.ipa",
-		"category": "Tweaked Apps",
-		"bundleID": "com.rhino.InstagramApp",
-		"appstore": "com.burbn.instagram"
-	}, {
-		"name": "VideoStar",
-		"version": "8.3.2",
-		"icon": "https://usescarlet.com/icons/videostar.png",
-		"down": "https://resources.usescarlet.com/repo/IPAs/videostar.ipa",
-		"category": "Tweaked Apps",
-		"debs": [
-			"https://usescarlet.com/debs/videostar.dylib"
-		],
-		"bundleID": "com.frontierdesign.videostar",
-		"appstore": "com.frontierdesign.videostar"
-	}],
-	"Jailbreaks": [{
-			"name": "Taurine",
-			"version": "1.1.6",
-			"icon": "https://cdn.discordapp.com/attachments/752890955236901055/829728600446074930/Taurine.png",
-			"down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
-			"dev": "Odyssey-Team",
-			"category": "Jailbreaks",
-			"description": "Time to get amped.",
-			"bundleID": "com.odysseyteam.taurine",
-			"screenshots": [
-				"https://taurine.app/assets/images/iphones.png",
-				"https://taurine.app/assets/images/iphone.png"
-			],
-			"contact": [
-				"https://taurine.app/",
-				"https://twitter.com/OdysseyTeam_"
-			]
-		},
-		{
-			"name": "Odyssey",
-			"version": "1.4.2",
-			"icon": "https://theodyssey.dev/assets/images/icon.png",
-			"down": "https://github.com/Odyssey-Team/Odyssey/releases/download/v1.4.2/Odyssey-1.4.2.ipa",
-			"dev": "Odyssey-Team",
-			"category": "Jailbreaks",
-			"bundleID": "org.coolstar.odyssey",
-			"description": "A new jailbreak for a new era.",
-			"screenshots": [
-				"https://theodyssey.dev/assets/images/iphones.png",
-				"https://theodyssey.dev/assets/images/iphone.png"
-			],
-			"contact": [
-				"https://theodyssey.dev/",
-				"https://twitter.com/OdysseyTeam_"
-			]
-		},
-		{
-			"name": "unc0ver",
-			"version": "8.0.2",
-			"icon": "https://cdn.discordapp.com/attachments/752890955236901055/829731825802018896/unc0ver.png",
-			"down": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
-			"dev": "unc0ver-Team",
-			"category": "Jailbreaks",
-			"bundleID": "science.xnu.undecimus",
-			"screenshots": [
-				"https://usescarlet.com/Repo/unc0verpg1.png",
-				"https://usescarlet.com/Repo/unc0verpg2.png",
-				"https://usescarlet.com/Repo/unc0verpg3.png"
-			],
-			"contact": [
-				"https://unc0ver.dev/",
-				"https://twitter.com/pwn20wnd"
-			]
-		}
-	],
-	"Emulators": [{
-		"name": "iNDS",
-		"version": "1.10.8",
-		"icon": "https://iosninja.io/img/ipas/inds.png",
-		"down": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
-		"category": "Emulators",
-		"description": "",
-		"bundleID": "net.nerd.iNDS"
-	}, {
-		"name": "Delta iPac",
-		"version": "1",
-		"icon": "https://raw.githubusercontent.com/rileytestut/Delta/main/Resources/Assets.xcassets/AppIcon.appiconset/icon-180.png",
-		"down": "https://github.com/ianclawson/Delta-iPac-Edition/releases/download/1.0.1/Delta-iPac.ipa",
-		"category": "Emulators",
-		"description": "A Fan-build of Delta, an all-in-one classic video game emulator for non-jailbroken iOS devices",
-		"bundleID": "com.ianclawson.DeltaPacEdition"
-	}],
-	"Other": [{
-		"name": "Scarlet",
-		"version": "1.0",
-		"icon": "https://usescarlet.com/icon.png",
-		"down": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
-		"description": "This is the standard version of Scarlet. Allowing you to tweak and sideload your apps along with import your own certificates or use with a paid developer account entirely computerless.",
-		"bundleID": "com.DebianArch.Scarlet",
-		"category": "Alpha",
-		"changelog": "- Fixed crashes under certain circumstances"
-	}]
+    {
+        "name": "179io IPA",
+        "sourceImage": "https://179io-mtt.github.io/img/62BA2D4C-0FD3-4270-B197-58E42A834777.jpeg",
+        "identifier": "https://179io-mtt.github.io",
+        "sourceURL": "https://179io-mtt.github.io/app.json",
+        "apps": [
+        {
+            "isLanZouCloud": 0,
+            "name": "Liên Quân Mod",
+            "version": "v1.49",
+            "iconURL": "https://179io-mtt.github.io/img/li%C3%AAn%20qu%C3%A2n.jpg",
+            "downloadURL": "https://mega.nz/file/G8VwWDRS#K6U1Kr63i3YoYzuXSjZ_36kKC2kCzISADv0YyLV990A.ipa",
+            "versionDescription": "New Updates"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Liên Quân AIM",
+            "version": "v1.49",
+            "iconURL": "https://179io-mtt.github.io/img/li%C3%AAn%20qu%C3%A2n.jpg",
+            "downloadURL": "https://mega.nz/file/W80XQBwS#J_ijOioGVhZy1QBWj9qQu6Gj43lgU2wIVKGUoload6E.ipa",
+            "versionDescription": "Bản Mod AIM-New Updates"
+        },
+        
+        {
+            "isLanZouCloud": 0,
+            "name": "iGameGod",
+            "version": "v1.0",
+            "iconURL": "https://179io-mtt.github.io/img/igamegod.jpg",
+            "downloadURL": "https://mega.nz/file/7ttGHKJB#o2E-ITpE-cOicVQP8f_bSJ4uU8tKJbWfSdJtwPwRL7s.ipa",
+            "versionDescription": "Bản Deb Dùng Để Tiêm Vào IPA"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Santander",
+            "version": "1.1",
+            "iconURL": "https://179io-mtt.github.io/img/STANDER.jpg",
+            "downloadURL": "https://mega.nz/file/u5UjiCQJ#JThFi1tPON9hW_h8JArNkrOujKige7lT1dS-PtQQREM.ipa",
+            "versionDescription": ""
+        },
+
+        
+        {
+            "isLanZouCloud": 0,
+            "name": "CPU Pro",
+            "version": "2.1.1",
+            "iconURL": "https://179io-mtt.github.io/img/CPU.jpg",
+            "downloadURL": "https://mega.nz/file/7hkyQJgZ#T4nqVmCNGU58FscHEmO3_mElrxXA3SktOrRSK9ntJac.ipa",
+            "versionDescription": "Kiểm Tra Hiệu Suất Máy Và Giải Phóng Ram"
+        },
+            
+        {
+            "isLanZouCloud": 0,
+            "name": "Statusmagic",
+            "version": "1.0.3",
+            "iconURL": "https://179io-mtt.github.io/img/statusmagic.jpg",
+            "downloadURL": "https://mega.nz/file/u19HiJqY#LTD-0jc2ifCM7CJJphK6pGLA9c-6tLlOG8HLDbwpesg.ipa",
+            "versionDescription": ""
+        },
+            
+        {
+            "isLanZouCloud": 0,
+            "name": "Youtobe",
+            "version": "??????",
+            "iconURL": "https://179io-mtt.github.io/img/Youtobe.png",
+            "downloadURL": "https://mega.nz/file/S4lnya5A#KbXb81Y17Hi4HlfV_EN19jQUxesAxF-etMQubzEAExo.ipa",
+            "versionDescription": ""
+        },
+      
+        {
+            "isLanZouCloud": 0,
+            "name": "MOMO 2",
+            "version": "?????",
+            "iconURL": "https://179io-mtt.github.io/img/momo.png",
+            "downloadURL": "https://mega.nz/file/qo9yhCKa#hKVSlr0FNV2EIkgnrR8UJRtuPbFNhr73LdBpm54Y2_4.ipa",
+            "versionDescription": "MOMO IPA"
+        },    
+            
+        {
+            "isLanZouCloud": 0,
+            "name": "Picsart",
+            "version": "?????",
+            "iconURL": "https://179io-mtt.github.io/img/picsart.jpg",
+            "downloadURL": "https://mega.nz/file/u5UnXLZS#toF_-gP9Xp9crg_mr92LBu_l0_6_F-co14lJi9VNBu4.ipa",
+            "versionDescription": "Mở Khoá Pro"
+        },    
+            
+        {
+            "isLanZouCloud": 0,
+            "name": "WDBRemoveThreeAppLimit",
+            "version": "??????",
+            "iconURL": "https://179io-mtt.github.io/img/WDBremone.jpg",
+            "downloadURL": "https://mega.nz/file/zssWgRqT#77qrC-I0d0_YSVho9E5TcZO4Ls-7izH55azk_y009Y4.ipa",
+            "versionDescription": ""
+        }
+          
+    ]
 }
+        
