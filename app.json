@@ -1,4 +1,4 @@
-    {
+{
         "name": "Mai Thanh Tùng",
         "sourceImage": "https://179io-mtt.github.io/img/62BA2D4C-0FD3-4270-B197-58E42A834777.jpeg",
         "identifier": "https://179io-mtt.github.io",
@@ -102,8 +102,36 @@
             "iconURL": "https://179io-mtt.github.io/img/nextflix.png",
             "downloadURL": "https://github.com/179io-MTT/IPA-179io/blob/main/Netflix%20VIP%20_1.0.5.ipa?raw=true",
             "versionDescription": ""
+        },   
+	
+        {
+            "isLanZouCloud": 0,
+            "name": "Liên Quân Hack",
+            "version": "??????",
+            "iconURL": "https://179io-mtt.github.io/img/li%C3%AAn%20qu%C3%A2n.jpg",
+            "downloadURL": "https://archive.org/download/lien-quan-179io-1.49.1925084/Lie%CC%82n%20Qua%CC%82n%20-%20179io_1.49.1925084.ipa",
+            "versionDescription": "hhn"
         },
-		    
+		
+        
+        {
+            "isLanZouCloud": 0,
+            "name": "TrollInstaller",
+            "version": "??????",
+            "iconURL": "https://179io-mtt.github.io/img/Trollstore.jpg",
+            "downloadURL": "https://archive.org/download/trollstore/trollstore_archive.torrent",
+            "versionDescription": "179io"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "sptify",
+            "version": "??????",
+            "iconURL": "https://179io-mtt.github.io/img/spotify.png",
+            "downloadURL": "https://archive.org/download/spotify-8.8.14_202303/Spotify_8.8.14.ipa",
+            "versionDescription": "179io"
+        }
+
     ]
 }
         
