@@ -30,19 +30,50 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="Untitled-1.css">
     <title>Mai Thanh Tùng</title>
-<body class="scroll-smooth scrollbar">
-    
-    <script>
-        new Darkmode({
-          bottom: '90px',
-          right: '12.5px',
-          time: '0.5s',
-          label: '🌓'
-        }).showWidget();
-      </script>
-      
+    <link rel="stylesheet" href="Untitled-1.css">
+</head>
+</body>
+    <center>
+        <div class="snowflakes" aria-hidden="true">
+            <div class="snowflake">
+              🙂 
+            </div>
+            <div class="snowflake">
+              🙂 
+            </div>
+            <div class="snowflake">
+              💩
+            </div>
+            <div class="snowflake">
+              💩
+            </div>
+            <div class="snowflake">
+              💩
+            </div>
+            <div class="snowflake">
+              🙃 
+            </div>
+            <div class="snowflake">
+              🙃 
+            </div>
+            <div class="snowflake">
+              😀
+            </div>
+            <div class="snowflake">
+              😀
+            </div>
+            <div class="snowflake">
+              👻
+            </div>
+            <div class="snowflake">
+              👻
+            </div>
+            <div class="snowflake">
+              👻
+            </div>
+          </div>
+  </center>
     <div id="root" class="relative bg-[#0f172a]">
         <header class="relative header">
             <nav class="navbar max-w-[90vw] lg:max-w-[70vw] w-full mx-auto lg:py-10 flex items-center justify-between py-8">
@@ -173,6 +204,23 @@
     <script src="https://kit.fontawesome.com/7dd86c08e8.js" crossorigin="anonymous"></script>
     <script src="https://unpkg.com/scrollreveal"></script>
     <script src="ScrollReveal({.js"></script>
+
+    <div class="tbpopup active" id="tbpopup-1">
+        <div class="tboverlay"></div>
+        <div class="tbcontent">
+            <div class="tbclose-btn" onclick="thongbaopopup()">x</div>
+            <div style="font-size: 20px;color: #000;font-weight: bold">Thông Báo 179io !</div>  
+            <p>Hiện Website Mình Mới Hoàn Thiện Nên IPA và NGuồn Sẽ Chưa Được Tải Lên</p>               
+            <p>Các Bạn Thêm Nguồn Ở Website Cũ Nhé</p>
+            <p>Liên hệ <a href="https://zalo.me/0369171709" class="link">Mai Hà Thanh Tùng</a> Nếu Bạn Cần Hỗ Trợ </p>
+        </div>
+    </div>
+    <script>
+        function thongbaopopup(){
+            document.getElementById("tbpopup-1").classList.toggle("active");
+        }
+    </script>
 </body>
 
 </html>
+
