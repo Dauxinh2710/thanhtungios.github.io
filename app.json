@@ -211,6 +211,15 @@
             "iconURL": "https://179io-mtt.github.io/h%C3%ACnh%20%E1%BA%A3nh/%20Lineget.png",
             "downloadURL": "https://archive.org/download/line-get-kamohacks-3.1.0/LineGet%20-%20Kamohacks_3.1.0.ipa",
             "versionDescription": "Camchina Kamohack"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Used Car",
+            "version": "??????",
+            "iconURL": "https://179io-mtt.github.io/img/used%20car.jpg",
+            "downloadURL": "https://archive.org/download/used-car-tycoon-11.0.44-1678623660/Used%20Car%20Tycoon_11.0.44_1678623660.ipa",
+            "versionDescription": "Mai Thanh Tùng"
         }
     ]
 }
