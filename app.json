@@ -1,9 +1,9 @@
 {
-	"META": {
-		"repoName": "Mai Hà Thanh Tùng",
-		"repoIcon": "https://mtt-179io.github.io/img/logo179io.jpeg"
-	},
-	"Tweaked": [
+	"name": "Mai Hà Thanh Tùng",
+	"sourceImage": "https://179io-mtt.github.io/img/179.jpg",
+	"identifier": "https://179io-mtt.github.io",
+	"sourceURL": "https://179io-mtt.github.io/app.json",
+	"apps": [
 		
 	{
 		"isLanZouCloud": 0,
@@ -222,8 +222,11 @@
 		"downloadURL": "https://archive.org/download/used-car-tycoon-11.0.44-1678623660/Used%20Car%20Tycoon_11.0.44_1678623660.ipa",
 		"versionDescription": "Mai Thanh Tùng "
 
-	}
-          ]
+	   }
+          
+    
+     ]
+
 
 }	  
 	
