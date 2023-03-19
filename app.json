@@ -1,15 +1,15 @@
 {
 	"name": "Mai Hà Thanh Tùng",
-	"sourceImage": "https://179io-mtt.github.io/img/179.jpg",
-	"identifier": "https://179io-mtt.github.io",
-	"sourceURL": "https://179io-mtt.github.io/app.json",
+	"sourceImage": "https://179ios.github.io/img/179.jpg",
+	"identifier": "https://179ios.github.io",
+	"sourceURL": "https://179ios.github.io/app.json",
 	"apps": [
 		
 	{
 		"isLanZouCloud": 0,
 		"name": "uYou",
 		"version": "18.9.6",
-		"iconURL": "https://179io-mtt.github.io/img/Youtobe.png",
+		"iconURL": "https://179ios.github.io/img/Youtobe.png",
 		"downloadURL": "https://miro92.com/repo/depictions/com.miro.uyou/iPA/YouTube_16.42.3_uYou_2.1.ipa",
 		"versionDescription": "Đã Fix Đăng Nhập"
 	},
@@ -18,26 +18,26 @@
 		"isLanZouCloud": 0,
 		"name": "Liên Quân AIM",
 		"version": "v1.49",
-		"iconURL": "https://179io-mtt.github.io/img/li%C3%AAn%20qu%C3%A2n.jpg",
+		"iconURL": "https://179ios.github.io/img/li%C3%AAn%20qu%C3%A2n.jpg",
 		"downloadURL": "https://archive.org/download/lien-quan-aim-1.49.1925084/Lie%CC%82n%20Qua%CC%82n%20aim_1.49.1925084.ipa",
-		"versionDescription": "Bản Mod AIM By HHN New Updates"
+		"versionDescription": "Mai Thanh Tùng"
 	},
 	
 	{
 		"isLanZouCloud": 0,
 		"name": "iGameGod",
 		"version": "v1.0",
-		"iconURL": "https://179io-mtt.github.io/img/igamegod.jpg",
+		"iconURL": "https://179ios.github.io/img/igamegod.jpg",
 		"downloadURL": "https://github.com/179io-MTT/IPA-179io/raw/main/iGameGod%20-%202023%20%5Bv0.3.3%5D.deb",
-		"versionDescription": "Bản Deb Dùng Để Tiêm Vào IPA"
+		"versionDescription": "Chích Vào IPA"
 	},
 
 	{
 		"isLanZouCloud": 0,
 		"name": "Santander",
 		"version": "1.1",
-		"iconURL": "https://179io-mtt.github.io/img/STANDER.jpg",
-		"downloadURL": "https://github.com/179io-MTT/IPA-179io/blob/main/Santander.ipa?raw=true",
+		"iconURL": "https://179ios.github.io/img/STANDER.jpg",
+		"downloadURL": "https://github.com/179ios/IPA-179io/blob/main/Santander.ipa?raw=true",
 		"versionDescription": ""
 	},
 
@@ -46,8 +46,8 @@
 		"isLanZouCloud": 0,
 		"name": "CPU Pro",
 		"version": "2.1.1",
-		"iconURL": "https://179io-mtt.github.io/img/CPU.jpg",
-		"downloadURL": "https://github.com/179io-MTT/179io-MTT.github.io/blob/main/CPU%20Pro_1.6.4.ipa?raw=true",
+		"iconURL": "https://179ios.github.io/img/CPU.jpg",
+		"downloadURL": "https://github.com/179ios/179ios.github.io/blob/main/CPU%20Pro_1.6.4.ipa?raw=true",
 		"versionDescription": "Kiểm Tra Hiệu Suất Máy Và Giải Phóng Ram"
 	},
 		
@@ -55,8 +55,8 @@
 		"isLanZouCloud": 0,
 		"name": "Statusmagic",
 		"version": "1.0.3",
-		"iconURL": "https://179io-mtt.github.io/img/statusmagic.jpg",
-		"downloadURL": "https://github.com/179io-MTT/179io-MTT.github.io/blob/main/StatusMagic%20V1.0.2.ipa?raw=true",
+		"iconURL": "https://179ios.github.io/img/statusmagic.jpg",
+		"downloadURL": "https://github.com/179ios/179ios.github.io/blob/main/StatusMagic%20V1.0.2.ipa?raw=true",
 		"versionDescription": "Mai Thanh Tùng"
 	},
 		
@@ -64,8 +64,8 @@
 		"isLanZouCloud": 0,
 		"name": "Blacklist",
 		"version": "Quên Mịa Rồi",
-		"iconURL": "https://179io-mtt.github.io/img/Blacklist.PNG",
-		"downloadURL": "https://github.com/179io-MTT/179io-MTT.github.io/blob/main/Blacklist_1.0(1).ipa?raw=true",
+		"iconURL": "https://179ios.github.io/img/Blacklist.PNG",
+		"downloadURL": "https://github.com/179ios/179ios.github.io/blob/main/Blacklist_1.0(1).ipa?raw=true",
 		"versionDescription": "Mai Thanh Tùng"
 	},
   
@@ -73,8 +73,8 @@
 		"isLanZouCloud": 0,
 		"name": "MOMO 2",
 		"version": "?????",
-		"iconURL": "https://179io-mtt.github.io/img/momo.png",
-		"downloadURL": "https://github.com/179io-MTT/179io-MTT.github.io/blob/main/MoMo_4.0.14.ipa?raw=true",
+		"iconURL": "https://179ios.github.io/img/momo.png",
+		"downloadURL": "https://github.com/179ios/179ios.github.io/blob/main/MoMo_4.0.14.ipa?raw=true",
 		"versionDescription": "MOMO IPA"
 	},    
 		
@@ -82,8 +82,8 @@
 		"isLanZouCloud": 0,
 		"name": "Picsart",
 		"version": "?????",
-		"iconURL": "https://179io-mtt.github.io/img/picsart.jpg",
-		"downloadURL": "https://github.com/179io-MTT/IPA-179io/blob/main/PicsArt%20Pro_21.6.3.ipa?raw=true",
+		"iconURL": "https://179ios.github.io/img/picsart.jpg",
+		"downloadURL": "https://github.com/179ios/IPA-179io/blob/main/PicsArt%20Pro_21.6.3.ipa?raw=true",
 		"versionDescription": "Mai Thanh Tùng"
 	},    
 		
@@ -91,8 +91,8 @@
 		"isLanZouCloud": 0,
 		"name": "WDBRemoveThreeAppLimit",
 		"version": "??????",
-		"iconURL": "https://179io-mtt.github.io/img/WDBremone.jpg",
-		"downloadURL": "https://github.com/179io-MTT/IPA-179io/blob/main/WDBRemoveThreeAppLimit-v1.0.ipa?raw=true",
+		"iconURL": "https://179ios.github.io/img/WDBremone.jpg",
+		"downloadURL": "https://github.com/179ios/IPA-179io/blob/main/WDBRemoveThreeAppLimit-v1.0.ipa?raw=true",
 		"versionDescription": "Mai Thanh Tùng"
 	},    
 
@@ -100,8 +100,8 @@
 		"isLanZouCloud": 0,
 		"name": "Nextflix Pro",
 		"version": "??????",
-		"iconURL": "https://179io-mtt.github.io/img/nextflix.png",
-		"downloadURL": "https://github.com/179io-MTT/IPA-179io/blob/main/Netflix%20VIP%20_1.0.5.ipa?raw=true",
+		"iconURL": "https://179ios.github.io/img/nextflix.png",
+		"downloadURL": "https://github.com/179ios/IPA-179io/blob/main/Netflix%20VIP%20_1.0.5.ipa?raw=true",
 		"versionDescription": "Mai Thanh Tùng"
 	},   
 
@@ -109,9 +109,9 @@
 		"isLanZouCloud": 0,
 		"name": "Liên Quân Hack",
 		"version": "??????",
-		"iconURL": "https://179io-mtt.github.io/img/li%C3%AAn%20qu%C3%A2n.jpg",
+		"iconURL": "https://179ios.github.io/img/li%C3%AAn%20qu%C3%A2n.jpg",
 		"downloadURL": "https://archive.org/download/lien-quan-179io-1.49.1925084/Lie%CC%82n%20Qua%CC%82n%20-%20179io_1.49.1925084.ipa",
-		"versionDescription": "Mod HHN"
+		"versionDescription": "Mai Thanh Tùng"
 	},
 	
 	
@@ -119,7 +119,7 @@
 		"isLanZouCloud": 0,
 		"name": "TrollInstaller",
 		"version": "??????",
-		"iconURL": "https://179io-mtt.github.io/img/Trollstore.jpg",
+		"iconURL": "https://179ios.github.io/img/Trollstore.jpg",
 		"downloadURL": "https://archive.org/download/trollstore/trollstore_archive.torrent",
 		"versionDescription": "Mai Thanh Tùng"
 	},
@@ -128,7 +128,7 @@
 		"isLanZouCloud": 0,
 		"name": "sptify",
 		"version": "??????",
-		"iconURL": "https://179io-mtt.github.io/img/spotify.png",
+		"iconURL": "https://179ios.github.io/img/spotify.png",
 		"downloadURL": "https://archive.org/download/spotify-8.8.14_202303/Spotify_8.8.14.ipa",
 		"versionDescription": "Mai Thanh Tùng"
 	},
@@ -137,7 +137,7 @@
 		"isLanZouCloud": 0,
 		"name": "TeraBox Pro",
 		"version": "??????",
-		"iconURL": "https://179io-mtt.github.io/img/Terabox.jpg",
+		"iconURL": "https://179ios.github.io/img/Terabox.jpg",
 		"downloadURL": "https://archive.org/download/tera-box-3.9.0-1/TeraBox_3.9.0%281%29.ipa",
 		"versionDescription": "Mai Thanh Tùng"
 	},
@@ -146,7 +146,7 @@
 		"isLanZouCloud": 0,
 		"name": "TikTok",
 		"version": "Không Biết",
-		"iconURL": "https://179io-mtt.github.io/img/TikTok.jpg",
+		"iconURL": "https://179ios.github.io/img/TikTok.jpg",
 		"downloadURL": "https://archive.org/download/tik-tok-28.4.0_202303/TikTok%20_28.4.0.ipa",
 		"versionDescription": "Mai Thanh Tùng"
 	},
@@ -155,7 +155,7 @@
 		"isLanZouCloud": 0,
 		"name": "inshots",
 		"version": "??????",
-		"iconURL": "https://179io-mtt.github.io/img/inshot.png",
+		"iconURL": "https://179ios.github.io/img/inshot.png",
 		"downloadURL": "https://archive.org/download/in-shot-pro-1.66.0/InShot%20Pro%20_1.66.0.ipa",
 		"versionDescription": "Mai Thanh Tùng"
 	},
@@ -164,7 +164,7 @@
 		"isLanZouCloud": 0,
 		"name": "Link Box",
 		"version": "????",
-		"iconURL": "https://179io-MTT.github.io/img/Link Box.jpg",
+		"iconURL": "https://179ios.github.io/img/Link Box.jpg",
 		"downloadURL": "https://archive.org/download/link-box-1.27.00/LinkBox_1.27.00.ipa",
 		"versionDescription": "Mai Thanh Tùng"
 	},
@@ -173,7 +173,7 @@
 		"isLanZouCloud": 0,
 		"name": "Slow Shutter",
 		"version": "New",
-		"iconURL": "https://179io-mtt.github.io/img/slow%20shutter.jpg",
+		"iconURL": "https://179ios.github.io/img/slow%20shutter.jpg",
 		"downloadURL": "https://archive.org/download/slow-shutter-5.3.2/Slow%20Shutter_5.3.2.ipa",
 		"versionDescription": "Mai Thanh Tùng"
 	},
@@ -182,7 +182,7 @@
 		"isLanZouCloud": 0,
 		"name": "Mega Pro",
 		"version": "New",
-		"iconURL": "https://179io-mtt.github.io/img/mega.png",
+		"iconURL": "https://179ios.github.io/img/mega.png",
 		"downloadURL": "https://archive.org/download/mega-9.6.1/MEGA_9.6.1.ipa",
 		"versionDescription": "Mai Thanh Tùng"
 	},
@@ -191,7 +191,7 @@
 		"isLanZouCloud": 0,
 		"name": "My Tom 2",
 		"version": "??????",
-		"iconURL": "https://179io-mtt.github.io/img/My%20Tom%202.jpg",
+		"iconURL": "https://179ios.github.io/img/My%20Tom%202.jpg",
 		"downloadURL": "https://archive.org/download/my-tom-2-3.8.0/My%20Tom%202_3.8.0.ipa",
 		"versionDescription": "Mai Thanh Tùng"
 	},
@@ -200,7 +200,7 @@
 		"isLanZouCloud": 0,
 		"name": "ProCam China",
 		"version": "New",
-		"iconURL": "https://179io-mtt.github.io/img/Pro%20Cam.jpg",
+		"iconURL": "https://179ios.github.io/img/Pro%20Cam.jpg",
 		"downloadURL": "https://archive.org/download/pro-camera-16.2/ProCamera_16.2.ipa",
 		"versionDescription": "Mai Thanh Tùng"
 	},
@@ -209,7 +209,7 @@
 		"isLanZouCloud": 0,
 		"name": "LineGet",
 		"version": "??????",
-		"iconURL": "https://179io-mtt.github.io/h%C3%ACnh%20%E1%BA%A3nh/%20Lineget.png",
+		"iconURL": "https://179ios.github.io/h%C3%ACnh%20%E1%BA%A3nh/%20Lineget.png",
 		"downloadURL": "https://archive.org/download/line-get-kamohacks-3.1.0/LineGet%20-%20Kamohacks_3.1.0.ipa",
 		"versionDescription": "Camchina Kamohack"
 	},
@@ -218,7 +218,7 @@
 		"isLanZouCloud": 0,
 		"name": "Used Car",
 		"version": "??????",
-		"iconURL": "https://179io-mtt.github.io/img/used%20car.jpg",
+		"iconURL": "https://179ios.github.io/img/used%20car.jpg",
 		"downloadURL": "https://archive.org/download/used-car-tycoon-11.0.44-1678623660/Used%20Car%20Tycoon_11.0.44_1678623660.ipa",
 		"versionDescription": "Mai Thanh Tùng "
 
@@ -228,7 +228,7 @@
         "isLanZouCloud": 0,
         "name": "8Ball Pool",
         "version": "??????",
-        "iconURL": "https://179io-mtt.github.io/img/8ballpool.jpg",
+        "iconURL": "https://179ios.github.io/img/8ballpool.jpg",
         "downloadURL": "https://archive.org/download/8ballpool-3.10.2/8ballpool%20_3.10.2.ipa",
         "versionDescription": "Mai Thanh Tùng"
     },
@@ -237,7 +237,7 @@
         "isLanZouCloud": 0,
         "name": "Temple run2",
         "version": "????",
-        "iconURL" :"https://179io-mtt.github.io/img/temrun2.jpg",
+        "iconURL" :"https://179ios.github.io/img/temrun2.jpg",
         "downloadURL": "https://archive.org/download/temple-run-2-1.98.0/TempleRun2%20_1.98.0.ipa",
         "versionDescription": "Mai Thanh Tùng"
     }
