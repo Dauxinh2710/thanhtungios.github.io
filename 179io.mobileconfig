@@ -22,7 +22,7 @@
 			<string>Mai Thanh Tùng</string>
 			<key>PayloadIdentifier</key>
 			<string>vn.ycs.179io.WebClip</string>
-			<key>PayloadOrganization</key>
+			<key>Payload.Organization</key>
 			<string>179io Store</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
@@ -33,7 +33,7 @@
 			<key>Precomposed</key>
 			<true/>
 			<key>URL</key>
-			<string>https://179io-mtt.github.io</string>
+			<string>https://179ios.github.io</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
