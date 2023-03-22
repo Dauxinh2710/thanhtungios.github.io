@@ -233,14 +233,14 @@ p {
 	animation-delay: 1s;
 }
 #hero h1:nth-child(1) {
-	animation-delay: 1s;
-}
-#hero h1:nth-child(2) {
 	animation-delay: 2s;
 }
-#hero h1:nth-child(3) {
-	animation: text_reveal_name 0.5s ease forwards;
+#hero h1:nth-child(2) {
 	animation-delay: 3s;
+}
+#hero h1:nth-child(3) {
+	animation: text_reveal_name 1.5s ease forwards;
+	animation-delay: 4s;
 }
 #hero h1 span {
 	position: absolute;
@@ -560,7 +560,7 @@ p {
 }
 @keyframes text_reveal_name {
 	100% {
-		color: crimson;
+		color: rgb(245, 31, 173);
 		font-weight: 500;
 	}
 }
