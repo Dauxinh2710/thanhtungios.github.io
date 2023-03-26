@@ -164,7 +164,7 @@
 		"isLanZouCloud": 0,
 		"name": "Link Box",
 		"version": "????",
-		"iconURL": "https://179ios.github.io/img/Link Box.jpg",
+		"iconURL": "https://179ios.github.io/img/LinkBox.jpg",
 		"downloadURL": "https://archive.org/download/link-box-1.27.00/LinkBox_1.27.00.ipa",
 		"versionDescription": "Mai Thanh Tùng"
 	},
@@ -298,12 +298,12 @@
 
     {
         "isLanZouCloud": 0,
-        "name": " Comingsoon  ",
+        "name": "Inshot",
         "version": "????",
         "iconURL" :"https://179ios.github.io/img/Nencss.PNG",
-        "downloadURL": "  Link    ",
+        "downloadURL": "https://archive.org/download/inshot-1.66.2_202303/Inshot%20%281.66.2%29.ipa",
         "versionDescription": "Mai Thanh Tùng"
-    }
+    },
 
     {
         "isLanZouCloud": 0,
@@ -312,7 +312,7 @@
         "iconURL" :"https://179ios.github.io/img/Nencss.PNG",
         "downloadURL": "  Comingsoon   ",
         "versionDescription": "Mai Thanh Tùng"
-    }
+    },
 
     {
         "isLanZouCloud": 0,
