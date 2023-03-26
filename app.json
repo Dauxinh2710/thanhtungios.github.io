@@ -265,7 +265,61 @@
         "name": "Douyin China",
         "version": "????",
         "iconURL" :"https://179ios.github.io/img/TikTok.jpg",
-        "downloadURL": "https://archive.org/download/temple-run-2-1.98.0/TempleRun2%20_1.98.0.ipa",
+        "downloadURL": "https://archive.org/download/douyin-china-179/douyin%20China%20-%20%23179.ipa",
+        "versionDescription": "Mai Thanh Tùng"
+    },
+    
+    {
+        "isLanZouCloud": 0,
+        "name": "Lightroom",
+        "version": "????",
+        "iconURL" :"https://179ios.github.io/img/lightrom.png",
+        "downloadURL": "https://archive.org/download/lightroom-v-8.2.2/Lightroom%20v%288.2.2%29.ipa",
+        "versionDescription": "Mai Thanh Tùng"
+    },
+
+    {
+        "isLanZouCloud": 0,
+        "name": "Youtube Killer",
+        "version": "????",
+        "iconURL" :"https://179ios.github.io/img/Youtobe.png",
+        "downloadURL": "https://archive.org/download/you-tube-killer-18.11.2-okko-okan/YouTubeKiller_18.11.2_OkkoOkan.ipa",
+        "versionDescription": "Mai Thanh Tùng"
+    },
+
+    {
+        "isLanZouCloud": 0,
+        "name": "Esign 4.8.1",
+        "version": "????",
+        "iconURL" :"https://179ios.github.io/img/Nencss.PNG",
+        "downloadURL": "https://github.com/179ios/179ios.github.io/blob/main/Thanh%20Tu%CC%80ng%20%F0%9F%90%A7.ipa?raw=true",
+        "versionDescription": "Mai Thanh Tùng"
+    },
+
+    {
+        "isLanZouCloud": 0,
+        "name": " Comingsoon  ",
+        "version": "????",
+        "iconURL" :"https://179ios.github.io/img/Nencss.PNG",
+        "downloadURL": "  Link    ",
+        "versionDescription": "Mai Thanh Tùng"
+    }
+
+    {
+        "isLanZouCloud": 0,
+        "name": " Comingsoon  ",
+        "version": "????",
+        "iconURL" :"https://179ios.github.io/img/Nencss.PNG",
+        "downloadURL": "  Comingsoon   ",
+        "versionDescription": "Mai Thanh Tùng"
+    }
+
+    {
+        "isLanZouCloud": 0,
+        "name": " Comingsoon  ",
+        "version": "????",
+        "iconURL" :"https://179ios.github.io/img/Nencss.PNG",
+        "downloadURL": "  Comingsoon   ",
         "versionDescription": "Mai Thanh Tùng"
     }
     
