@@ -83,7 +83,7 @@
 		"name": "Picsart",
 		"version": "?????",
 		"iconURL": "https://179ios.github.io/img/picsart.jpg",
-		"downloadURL": "https://github.com/179ios/IPA-179io/blob/main/PicsArt%20Pro_21.6.3.ipa?raw=true",
+		"downloadURL": "https://archive.org/download/pics-art-pro-1/PicsArt%20Pro%281%29.ipa",
 		"versionDescription": "Mai Thanh Tùng"
 	},    
 		
@@ -238,6 +238,33 @@
         "name": "Temple run2",
         "version": "????",
         "iconURL" :"https://179ios.github.io/img/temrun2.jpg",
+        "downloadURL": "https://archive.org/download/temple-run-2-1.98.0/TempleRun2%20_1.98.0.ipa",
+        "versionDescription": "Mai Thanh Tùng"
+    },
+
+	{
+        "isLanZouCloud": 0,
+        "name": "Youtube",
+        "version": "????",
+        "iconURL" :"https://179ios.github.io/img/Youtobe.png",
+        "downloadURL": "https://archive.org/download/youtube-pro/Youtube%20Pro.ipa",
+        "versionDescription": "Mai Thanh Tùng"
+    },
+
+	{
+        "isLanZouCloud": 0,
+        "name": "Liên Quân New",
+        "version": "????",
+        "iconURL" :"https://179ios.github.io/img/li%C3%AAn%20qu%C3%A2n.jpg",
+        "downloadURL": "https://archive.org/download/lien-quan_202303/Li%C3%AAn%20Qu%C3%A2n.ipa",
+        "versionDescription": "Mai Thanh Tùng"
+    },
+    
+    {
+        "isLanZouCloud": 0,
+        "name": "Douyin China",
+        "version": "????",
+        "iconURL" :"https://179ios.github.io/img/TikTok.jpg",
         "downloadURL": "https://archive.org/download/temple-run-2-1.98.0/TempleRun2%20_1.98.0.ipa",
         "versionDescription": "Mai Thanh Tùng"
     }
