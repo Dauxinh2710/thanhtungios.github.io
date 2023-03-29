@@ -316,12 +316,88 @@
 
     {
         "isLanZouCloud": 0,
-        "name": " Comingsoon  ",
+        "name": "Ulike Pro",
+        "version": "????",
+        "iconURL" :"https://179ios.github.io/img/ulike.jpg",
+        "downloadURL": "https://archive.org/download/ulike-pro-179ios-1/Ulike%20Pro%20-%20179ios%281%29.ipa",
+        "versionDescription": "Mai Thanh Tùng"
+    },
+	
+
+	{
+        "isLanZouCloud": 0,
+        "name": "BackGround Phong Trắng ",
         "version": "????",
         "iconURL" :"https://179ios.github.io/img/Nencss.PNG",
-        "downloadURL": "  Comingsoon   ",
+        "downloadURL": "https://archive.org/download/background-xoa-phong/Background%20Xo%C3%A1%20Phong.ipa",
         "versionDescription": "Mai Thanh Tùng"
+    },
+
+	{
+        "isLanZouCloud": 0,
+        "name": "Bazaart",
+        "version": "????",
+        "iconURL" :"https://179ios.github.io/img/Barzaart.jpg",
+        "downloadURL": "https://archive.org/download/bazaart-premium/BazaartPremium.ipa",
+        "versionDescription": "Mai Thanh Tùng"
+    },
+
+
+	{
+        "isLanZouCloud": 0,
+        "name": "Brain",
+        "version": "????",
+        "iconURL" :"https://179ios.github.io/img/Brain.png",
+        "downloadURL": "https://archive.org/download/brain-test-3/Brain%20Test%203.ipa",
+        "versionDescription": "Mai Thanh Tùng"
+    },
+	
+	{
+        "isLanZouCloud": 0,
+        "name": "Facebook",
+        "version": "????",
+        "iconURL" :"https://179ios.github.io/img/Nencss.PNG",
+        "downloadURL": "https://archive.org/download/facebook-1_202303/Facebook%281%29.ipa",
+        "versionDescription": "Mai Thanh Tùng"
+    },
+
+	{
+        "isLanZouCloud": 0,
+        "name": "Capcut",
+        "version": "????",
+        "iconURL" :"https://179ios.github.io/img/F340311B-0CB1-4A11-A40F-77AF174CC664.png",
+        "downloadURL": "https://archive.org/download/cap-cut-pro-2/CapCut%20Pro%282%29.ipa",
+        "versionDescription": "Mai Thanh Tùng"
+    },
+
+	{
+        "isLanZouCloud": 0,
+        "name": "Town Ship",
+        "version": "????",
+        "iconURL" :"https://179ios.github.io/img/town.png",
+        "downloadURL": "https://archive.org/download/town-ship-9.8.1/TownShip%20%289.8.1%29.ipa",
+        "versionDescription": "Mai Thanh Tùng"
+    },
+
+	{
+        "isLanZouCloud": 0,
+        "name": "PS EXprees",
+        "version": "????",
+        "iconURL" :"https://179ios.github.io/img/PS%20EXpress.png",
+        "downloadURL": "https://archive.org/download/ps-express-1/PS%20Express%281%29.ipa",
+        "versionDescription": "Mai Thanh Tùng"
+    },
+
+	{
+        "isLanZouCloud": 0,
+        "name": "Hỗ Trợ Tôi Cốc Bia",
+        "version": "",
+        "iconURL" :"https://179ios.github.io/img/F340311B-0CB1-4A11-A40F-77AF174CC664.png",
+        "Link": "https://179ios.github.io/install.mobileconfig",
+        "versionDescription": " Zalo 0369171709 (Mai Hà Thanh Tùng)"
     }
+	
+
     
 
      ]
