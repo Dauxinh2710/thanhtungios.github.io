@@ -19,7 +19,7 @@
 		"name": "Liên Quân AIM",
 		"version": "v1.49",
 		"iconURL": "https://179ios.github.io/img/li%C3%AAn%20qu%C3%A2n.jpg",
-		"downloadURL": "https://archive.org/download/lien-quan-aim-1.49.1925084/Lie%CC%82n%20Qua%CC%82n%20aim_1.49.1925084.ipa",
+		"downloadURL": " ",
 		"versionDescription": "Mai Thanh Tùng"
 	},
 	
@@ -107,10 +107,10 @@
 
 	{
 		"isLanZouCloud": 0,
-		"name": "Liên Quân Hack",
+		"name": "Liên Quân New Upadate",
 		"version": "??????",
 		"iconURL": "https://179ios.github.io/img/li%C3%AAn%20qu%C3%A2n.jpg",
-		"downloadURL": "https://archive.org/download/lien-quan-179io-1.49.1925084/Lie%CC%82n%20Qua%CC%82n%20-%20179io_1.49.1925084.ipa",
+		"downloadURL": "https://archive.org/download/tto-lq-1/%5BTT%5D%E2%80%A2LQ%F0%9F%90%A7%281%29.ipa",
 		"versionDescription": "Mai Thanh Tùng"
 	},
 	
@@ -404,6 +404,24 @@
         "iconURL" :"https://179ios.github.io/img/F340311B-0CB1-4A11-A40F-77AF174CC664.png",
         "downloadURL": "https://archive.org/download/tong-hop-font-dong-ho/T%E1%BB%95ng%20H%E1%BB%A3p%20Font%20%C4%90%E1%BB%93ng%20H%E1%BB%93.zip",
         "versionDescription": "Hỗ Trợ Tôi Cốc Bia Nếu Bạn Yêu Mến Nguồn IPA Của Tôi"
+    },
+
+	{
+        "isLanZouCloud": 0,
+        "name": "Ulike Pro V2" ,
+        "version": "Đéo Biết",
+        "iconURL" :"https://179ios.github.io/img/ulike.jpg",
+        "downloadURL": "https://archive.org/download/ulike-179ios-1/Ulike%20-%20179ios%F0%9F%90%A7%281%29.ipa",
+        "versionDescription": ""
+    },
+
+	{
+        "isLanZouCloud": 0,
+        "name": "Blook Ads IPA" ,
+        "version": "Đéo Biết",
+        "iconURL" :"https://179ios.github.io/img/ulike.jpg",
+        "downloadURL": "https://archive.org/download/thanh-tung-blook-ads_202304/Thanh%20T%C3%B9ng%20Blook%20Ads.zip",
+        "versionDescription": "Tiêm 2 tệp này Vào ipa"
     }
 	
 
