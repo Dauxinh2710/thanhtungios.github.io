@@ -422,10 +422,26 @@
         "iconURL" :"https://179ios.github.io/img/F340311B-0CB1-4A11-A40F-77AF174CC664.png",
         "downloadURL": "https://archive.org/download/thanh-tung-blook-ads_202304/Thanh%20T%C3%B9ng%20Blook%20Ads.zip",
         "versionDescription": "Tiêm 2 tệp này Vào ipa"
-    }
-	
+    },
 
-    
+	{
+        "isLanZouCloud": 0,
+        "name": "Spectra" ,
+        "version": "Đéo Biết",
+        "iconURL" :"https://179ios.github.io/img/spectra.jpg",
+        "downloadURL": "https://archive.org/download/spectra-179ios/Spectra%20-%20179ios%F0%9F%90%A7.ipa",
+        "versionDescription": "Mai Thanh Tùng"
+    },
+
+	{
+        "isLanZouCloud": 0,
+        "name": "Zalo 2" ,
+        "version": "Đéo Biết",
+        "iconURL" :"https://179ios.github.io/img/F340311B-0CB1-4A11-A40F-77AF174CC664.png",
+        "downloadURL": "https://archive.org/download/zalo-2-179ios/Zalo%202%20-%20%40179ios%F0%9F%90%A7.ipa",
+        "versionDescription": "Mai Thanh Tùng"
+    }
+
 
      ]
 
