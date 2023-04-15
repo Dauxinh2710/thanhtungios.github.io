@@ -22,9 +22,9 @@
 			<key>PayloadDisplayName</key>
 			<string>Mai Thanh Tùng</string>
 			<key>PayloadIdentifier</key>
-			<string>vn.ycs.179io.WebClip</string>
+			<string>vn.ycs.179ios.WebClip</string>
 			<key>Payload.Organization</key>
-			<string>179io Store</string>
+			<string>Thanh Tùng🐧 Store</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
@@ -40,9 +40,9 @@
 	<key>PayloadDescription</key>
 	<string>Cài Đặt tiện ích tạo bởi Mai Thanh Tùng</string>
 	<key>PayloadDisplayName</key>
-	<string>179io MTT</string>
+	<string>Thanh TùngiOS🐧</string>
 	<key>PayloadIdentifier</key>
-	<string>cm.179io.179ioipa</string>
+	<string>cm.179ios.ThanhTung</string>
 	<key>PayloadOrganization</key>
 	<string> Mai Thanh Tùng  </string>
 	<key>PayloadRemovalDisallowed</key>
