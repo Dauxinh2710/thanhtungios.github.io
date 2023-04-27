@@ -14,14 +14,6 @@
 		"versionDescription": "Đã Fix Đăng Nhập"
 	},
 
-	{
-		"isLanZouCloud": 0,
-		"name": "Liên Quân AIM",
-		"version": "v1.49",
-		"iconURL": "https://thanhtungios.github.io/img/li%C3%AAn%20qu%C3%A2n.jpg",
-		"downloadURL": " ",
-		"versionDescription": "Mai Thanh Tùng"
-	},
 	
 	{
 		"isLanZouCloud": 0,
@@ -69,14 +61,6 @@
 		"versionDescription": "Mai Thanh Tùng"
 	},
   
-	{
-		"isLanZouCloud": 0,
-		"name": "MOMO 2",
-		"version": "?????",
-		"iconURL": "https://thanhtungios.github.io/img/momo.png",
-		"downloadURL": "https://github.com/thanhtungios/thanhtungios.github.io/blob/main/MoMo_4.0.14.ipa?raw=true",
-		"versionDescription": "MOMO IPA"
-	},    
 		
 	{
 		"isLanZouCloud": 0,
@@ -107,10 +91,10 @@
 
 	{
 		"isLanZouCloud": 0,
-		"name": "Liên Quân Oggy",
+		"name": "Liên Quân v2",
 		"version": "v1.50",
 		"iconURL": "https://thanhtungios.github.io/img/li%C3%AAn%20qu%C3%A2n.jpg",
-		"downloadURL": "https://archive.org/download/aovo-oggy/AOV%E2%80%A2Oggy%F0%9F%90%A7.ipa",
+		"downloadURL": "https://archive.org/download/aov.-oggy_202304/AOV.Oggy%F0%9F%90%A7.ipa",
 		"versionDescription": "Mai Thanh Tùng"
 	},
 	
@@ -253,10 +237,10 @@
 
 	{
         "isLanZouCloud": 0,
-        "name": "Liên Quân New",
+        "name": "Liên Quân v1",
         "version": "1.50",
         "iconURL" :"https://thanhtungios.github.io/img/li%C3%AAn%20qu%C3%A2n.jpg",
-        "downloadURL": "https://archive.org/download/aovo-oggy/AOV%E2%80%A2Oggy%F0%9F%90%A7.ipa",
+        "downloadURL": "https://archive.org/download/aovo-oggy-1_202304/AOV%E2%80%A2Oggy%F0%9F%90%A7%281%29.ipa",
         "versionDescription": "Mai Thanh Tùng"
     },
     
