@@ -12,9 +12,9 @@ const gamePath = [
   './img/hentaiz.png',
 ]
 
-const androidPath = [
+const applePath = [
   './img/apple.png',
-  './img/apple1.jpg',
+  './img/apple.png',
 ]
 
 button[0].style.backgroundColor = '#f70dff'
