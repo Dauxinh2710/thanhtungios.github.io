@@ -55,6 +55,6 @@ function game(params) {
 
 function android(params) {
   for (let i = 0; i < demo.length; i++) {
-    demo[i].children[0].src = androidPath[i]
+    demo[i].children[0].src = appledPath[i]
   }
 }
