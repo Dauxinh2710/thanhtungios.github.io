@@ -3,30 +3,18 @@ let button = switches.children
 let demo = document.querySelectorAll('.demo')
 
 const webPath = [
-  'D:\\my_portfolio\\img\\web\\webDemo (1).jpg',
-  'D:\\my_portfolio\\img\\web\\webDemo (2).jpg',
-  'D:\\my_portfolio\\img\\web\\webDemo (3).jpg',
-  'D:\\my_portfolio\\img\\web\\webDemo (4).jpg',
-  'D:\\my_portfolio\\img\\web\\webDemo (5).jpg',
-  'D:\\my_portfolio\\img\\web\\webDemo (6).jpg',
+  './img/github.png',
+  './img/github.png',
 ]
 
 const gamePath = [
-  'D:\\my_portfolio\\img\\game\\gameDemo (1).jpg',
-  'D:\\my_portfolio\\img\\game\\gameDemo (2).jpg',
-  'D:\\my_portfolio\\img\\game\\gameDemo (3).jpg',
-  'D:\\my_portfolio\\img\\game\\gameDemo (4).jpg',
-  'D:\\my_portfolio\\img\\game\\gameDemo (5).jpg',
-  'D:\\my_portfolio\\img\\game\\gameDemo (6).jpg',
+  './img/hentaiz.png',
+  './img/hentaiz.png',
 ]
 
 const androidPath = [
-  'D:\\my_portfolio\\img\\android\\androidDemo (1).jpg',
-  'D:\\my_portfolio\\img\\android\\androidDemo (2).jpg',
-  'D:\\my_portfolio\\img\\android\\androidDemo (3).jpg',
-  'D:\\my_portfolio\\img\\android\\androidDemo (4).jpg',
-  'D:\\my_portfolio\\img\\android\\androidDemo (5).jpg',
-  'D:\\my_portfolio\\img\\android\\androidDemo (6).jpg',
+  './img/apple.png',
+  './img/apple1.jpg',
 ]
 
 button[0].style.backgroundColor = '#f70dff'
@@ -40,7 +28,7 @@ for (let i = 0; i < button.length; i++) {
     } else if (this == button[1]) {
       game()
     } else if (this == button[2]) {
-      android()
+      apple()
     }
   })
 }
