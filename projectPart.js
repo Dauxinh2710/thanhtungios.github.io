@@ -17,12 +17,12 @@ const applePath = [
   './img/apple.png',
 ]
 
-button[0].style.backgroundColor = '#f70dff'
+button[0].style.backgroundColor = '#00FFFF'
 
 for (let i = 0; i < button.length; i++) {
   button[i].addEventListener('click', function setProperty(params) {
     resetColor()
-    this.style.backgroundColor = '#f70dff'
+    this.style.backgroundColor = '#00FFFF'
     if (this == button[0]) {
       web()
     } else if (this == button[1]) {
