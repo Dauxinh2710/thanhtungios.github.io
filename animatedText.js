@@ -1,6 +1,6 @@
 
 const text = ['Thanh Tùng🐧', 'Mai Thanh Tùng🐧', 'Bậc Ông Cố Nội🐧']
-const colors = ['tomato', 'chartreuse', 'blue']
+const colors = ['tomato', 'chartreuse', 'skyblue']
 let ele = document.querySelector('#animated-inner-text')
 let i = -1
 
