@@ -5,14 +5,17 @@ let demo = document.querySelectorAll('.demo')
 const webPath = [
   './img/github.png',
   './img/github.png',
+  './img/github.png',
 ]
 
 const gamePath = [
   './img/hentaiz.png',
   './img/hentaiz.png',
+  './img/hentaiz.png',
 ]
 
 const applePath = [
+  './img/apple.png',
   './img/apple.png',
   './img/apple.png',
 ]
